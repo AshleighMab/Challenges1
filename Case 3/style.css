@@ -1,0 +1,22 @@
+#box1{
+    height: 400px;
+    width: 400px;
+   border: 4px solid red;
+
+}
+
+#box2{
+   height: 200px;
+   width: 200px;
+   border: 4px solid blue;
+   position: relative;
+   top: 90px;
+   left: 90px;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    position: relative;
+    top:40px;
+}
